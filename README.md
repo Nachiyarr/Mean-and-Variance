@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-# EX :1
-# DATE:25:8:23
+# EX :1                     DATE:25-8-23
+
 
 # Aim : 
 
